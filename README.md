@@ -28,6 +28,6 @@ Doc. written in `Obsidian`, which makes it inconvenient to make updates here due
   	1. Overview
   	2. \[ every step \]
 3. Use LLM
-		- [ ] 实战1
-   		- [ ] 实战2
+	- [ ] 实战1
+   	- [ ] 实战2
 5. Research
