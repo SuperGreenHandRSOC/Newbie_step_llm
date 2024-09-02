@@ -18,14 +18,16 @@ Doc. written in `Obsidian`, which makes it inconvenient to make updates here due
 		2. Decoder-only: GPT
 			1. Brief history: **What's new, what's the differences**
 			2. pre-training
-			- [ ] tokenizer, embedding, transformer block, im_head
+			- [x] tokenizer, embedding, transformer block, im_head
 		3. Encoder-Decoder
 		4. Comparation
-			- [ ] bert vs. GPT
-			- [ ] decoder-only vs. encoder-decoder
+			- [x] bert vs. GPT
+			- [x] decoder-only vs. encoder-decoder
 		- [ ] Coding *<- I'm here, have been preparing for an exam recently, catch up soon*
 2. Training process
   	1. Overview
   	2. \[ every step \]
 3. Use LLM
-4. Research
+		- [ ] 实战1
+   		- [ ] 实战2
+5. Research
