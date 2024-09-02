@@ -23,9 +23,9 @@ Doc. written in `Obsidian`, which makes it inconvenient to make updates here due
 		4. Comparation
 			- [ ] bert vs. GPT
 			- [ ] decoder-only vs. encoder-decoder
-		- [ ] Coding <- I'm here, catch up soon
+		- [ ] Coding *<- I'm here, have been preparing for an exam recently, catch up soon*
 2. Training process
-  1. Overview
-  2. \[ every step \]
+  	1. Overview
+  	2. \[ every step \]
 3. Use LLM
 4. Research
